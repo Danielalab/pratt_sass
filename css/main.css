@@ -5808,9 +5808,12 @@ button.close {
 .seccion_uno {
   background-color: #33485c;
   padding-top: 6%; }
+<<<<<<< HEAD
   .seccion_uno h1, .seccion_uno h3 {
     color: #fff;
     text-align: center; }
+=======
+>>>>>>> b116c0765039617a7ec7829a77855f64519dfd31
 
 .seccion_dos {
   background-color: #f7f7f7;
